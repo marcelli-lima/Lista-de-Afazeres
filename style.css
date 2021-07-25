@@ -74,6 +74,7 @@ li {
 }
 
 .btn {
+    color: rgb(238, 90, 90);
     float: right;
     padding: auto;
     width: 2.5rem;
